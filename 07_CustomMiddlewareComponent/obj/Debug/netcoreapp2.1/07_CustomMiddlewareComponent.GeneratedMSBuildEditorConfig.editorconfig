@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = 07_CustomMiddlewareComponent
+build_property.ProjectDir = /Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/07_CustomMiddlewareComponent/

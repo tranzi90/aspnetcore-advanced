@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = 03_BranchingPipelinesPath
+build_property.ProjectDir = /Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/03_BranchingPipelinesPath/

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/04_UseMethod/04_UseMethod.csproj": {}
+  },
+  "projects": {
+    "/Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/04_UseMethod/04_UseMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/04_UseMethod/04_UseMethod.csproj",
+        "projectName": "04_UseMethod",
+        "projectPath": "/Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/04_UseMethod/04_UseMethod.csproj",
+        "packagesPath": "/Users/denis_levchenko/.nuget/packages/",
+        "outputPath": "/Users/denis_levchenko/Downloads/aspnetcore-adv-materials/02 Middleware/Samples/04_UseMethod/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denis_levchenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

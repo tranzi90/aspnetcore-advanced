@@ -1,0 +1,69 @@
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.input.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.output.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorCoreGenerate.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CopyComplete
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.input.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.output.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorCoreGenerate.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\03_CustomMiddleware\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\bin\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\02 Middleware\Samples\02_BranchingPipelines\obj\Debug\netcoreapp2.1\02_BranchingPipelines.csproj.CopyComplete

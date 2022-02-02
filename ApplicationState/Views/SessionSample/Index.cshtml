@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/site.css" rel="stylesheet" />
+    <title>Session Sample</title>
+</head>
+<body>
+    <h1>Хранение состояния в session</h1>
+    <form asp-controller="sessionsample" asp-action="index" method="post">
+        <div>
+            <label>Value</label>
+            <input type="text" name="value" />
+        </div>
+        <div>
+            <input type="submit" />
+        </div>
+
+        <div>
+            <a asp-controller="sessionsample" asp-action="test">Test View</a>
+        </div>
+    </form>
+</body>
+</html>

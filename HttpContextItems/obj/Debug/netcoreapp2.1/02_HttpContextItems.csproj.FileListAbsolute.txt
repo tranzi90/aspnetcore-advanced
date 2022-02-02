@@ -1,0 +1,14 @@
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\bin\Debug\netcoreapp2.1\02_HttpContextItems.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\bin\Debug\netcoreapp2.1\02_HttpContextItems.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\bin\Debug\netcoreapp2.1\02_HttpContextItems.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\bin\Debug\netcoreapp2.1\02_HttpContextItems.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\bin\Debug\netcoreapp2.1\02_HttpContextItems.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\HttpContextItems\obj\Debug\netcoreapp2.1\02_HttpContextItems.pdb

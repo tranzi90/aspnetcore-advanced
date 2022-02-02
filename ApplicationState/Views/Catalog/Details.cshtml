@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/site.css" rel="stylesheet" />
+    <title>Details</title>
+</head>
+<body>
+    <p>
+        Selected: @Model
+    </p>
+
+    <ul>
+        <li><a asp-controller="catalog" asp-action="index">назад</a></li>
+        <li><a asp-controller="home" asp-action="index">главная</a></li>
+    </ul>
+</body>
+</html>

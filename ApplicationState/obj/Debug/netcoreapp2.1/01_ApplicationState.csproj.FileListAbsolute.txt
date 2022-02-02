@@ -1,0 +1,68 @@
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.Views.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.TagHelpers.input.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.TagHelpers.output.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorCoreGenerate.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\CookiesSample\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\CookiesSample\Test.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Sample\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Sample\Test.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\SessionSample\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\SessionSample\Test.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\TempDataSample\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\TempDataSample\Test.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.dll
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.pdb
+D:\OneDrive\Course Development\ASP.NET Core\01 Introduction\04_ApplicationState\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\bin\Debug\netcoreapp2.1\01_ApplicationState.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\CookiesSample\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\CookiesSample\Test.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Sample\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Sample\Test.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\SessionSample\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\SessionSample\Test.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\TempDataSample\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\TempDataSample\Test.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\01_ApplicationState.csproj.CopyComplete
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\Details.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Application\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\03 Application State\Samples\ApplicationState\obj\Debug\netcoreapp2.1\Razor\Views\Cache\Index.g.cshtml.cs

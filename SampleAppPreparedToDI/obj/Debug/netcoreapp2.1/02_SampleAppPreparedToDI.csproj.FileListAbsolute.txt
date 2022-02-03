@@ -1,0 +1,13 @@
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\bin\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\bin\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\bin\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\bin\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.dll
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\bin\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.pdb
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.dll
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\SampleAppPreparedToDI\obj\Debug\netcoreapp2.1\02_SampleAppPreparedToDI.pdb

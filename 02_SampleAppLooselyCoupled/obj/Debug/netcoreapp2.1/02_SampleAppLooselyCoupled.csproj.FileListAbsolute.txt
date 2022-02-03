@@ -1,0 +1,14 @@
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\bin\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\bin\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\bin\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\bin\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.dll
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\bin\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.pdb
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.dll
+D:\OneDrive\Course Development\ASP.NET Core\02 Services and DI\DependencyInjection\02_SampleAppLooselyCoupled\obj\Debug\netcoreapp2.1\02_SampleAppLooselyCoupled.pdb

@@ -1,0 +1,28 @@
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\bin\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\07_EnvironmentSpecificConfig\obj\Debug\netcoreapp2.1\07_EnvironmentSpecificConfig.pdb

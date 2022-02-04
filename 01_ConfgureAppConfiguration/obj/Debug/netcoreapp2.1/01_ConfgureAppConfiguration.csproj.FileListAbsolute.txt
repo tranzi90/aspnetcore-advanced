@@ -1,0 +1,28 @@
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\bin\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\01_ConfgureAppConfiguration\obj\Debug\netcoreapp2.1\01_ConfgureAppConfiguration.pdb

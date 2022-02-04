@@ -1,0 +1,28 @@
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\bin\Debug\netcoreapp2.1\04_ReloadingConfig.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\04_ReloadingConfig\obj\Debug\netcoreapp2.1\04_ReloadingConfig.pdb

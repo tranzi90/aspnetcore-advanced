@@ -1,0 +1,28 @@
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\bin\Debug\netcoreapp2.1\02_MultipleProviders.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\02_MultipleProviders\obj\Debug\netcoreapp2.1\02_MultipleProviders.pdb

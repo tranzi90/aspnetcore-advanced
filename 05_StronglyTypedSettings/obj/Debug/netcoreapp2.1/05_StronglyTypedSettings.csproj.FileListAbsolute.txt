@@ -1,0 +1,50 @@
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.dll
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.TagHelpers.input.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.TagHelpers.output.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorCoreGenerate.cache
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\First\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csproj.CopyComplete
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\Second\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\03 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\Third\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\bin\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\First\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\Second\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\Razor\Views\Third\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\05 Configuration\ConfigurationSamples\05_StronglyTypedSettings\obj\Debug\netcoreapp2.1\05_StronglyTypedSettings.csproj.CopyComplete

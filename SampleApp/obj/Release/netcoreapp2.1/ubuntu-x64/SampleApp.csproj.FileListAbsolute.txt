@@ -1,0 +1,56 @@
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\libhostpolicy.so
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\libhostfxr.so
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.deps.json
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.runtimeconfig.json
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.runtimeconfig.dev.json
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.dll
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.pdb
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.dll
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csprojAssemblyReference.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.AssemblyInfoInputs.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.AssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.TagHelpers.input.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.TagHelpers.output.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorCoreGenerate.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\Razor\Views\Home\Index.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\Razor\Views\Home\List.g.cshtml.cs
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.pdb
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.dll
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.pdb
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csproj.CopyComplete
+D:\OneDrive\Course Development\ASP.NET Core\05 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\UserSecretsAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\libhostpolicy.so
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\libhostfxr.so
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.deps.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.runtimeconfig.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.runtimeconfig.dev.json
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\bin\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csprojAssemblyReference.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csproj.CoreCompileInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\UserSecretsAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.AssemblyInfoInputs.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.AssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.TagHelpers.input.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.TagHelpers.output.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorCoreGenerate.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\Razor\Views\Home\Index.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\Razor\Views\Home\List.g.cshtml.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.RazorTargetAssemblyInfo.cs
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.Views.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.dll
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.pdb
+D:\Google Drive\Course Development\ASP.NET Core. Advanced\07 Deployment\DeploymentSample\SampleApp\obj\Release\netcoreapp2.1\ubuntu-x64\SampleApp.csproj.CopyComplete

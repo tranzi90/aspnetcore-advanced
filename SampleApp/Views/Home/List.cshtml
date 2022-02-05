@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/main.css" rel="stylesheet" />
+    <title>List</title>
+</head>
+<body>
+    <p>Deployment sample</p>
+    <p>Home Controller, List Method</p>
+    <p>List Elements:</p>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</body>
+</html>
